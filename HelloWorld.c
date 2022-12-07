@@ -2,8 +2,13 @@
 
 int main(){
 
-    printf("Hello world!\n");
-    printf("I'm learning C!\n");
+
+    /* \n  = newline
+        \t = tab
+    
+    */
+
+    printf("Hello world!\nI'm learning C!\n");
 
     return 0;
 }
