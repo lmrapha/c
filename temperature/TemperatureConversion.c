@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <ctype.h>
 
+/*
+*   Learning C Exercise
+*   @lmrapha
+*/
+
 int main() {
 
     char unit;

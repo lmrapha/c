@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+*   Learning C Exercise
+*   @lmrapha
+*/
+
 int main() {
 
     char operator;
